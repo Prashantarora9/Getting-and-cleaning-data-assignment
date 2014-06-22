@@ -2,7 +2,7 @@
 The repo consists of three file:
 
 1. Readme.md
-2. Codeboo.md
+2. Codebook.md
 3. Run_analysis.R
 
 --------------------------------------------------------------------------
