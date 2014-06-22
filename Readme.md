@@ -1,4 +1,24 @@
 ==================================================================
+The repo consists of three file:
+
+1. Readme.md
+2. Codeboo.md
+3. Run_analysis.R
+
+--------------------------------------------------------------------------
+Run_analyis: Consists of R code to do the following operations
+
+
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names. 
+5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
+-------------------------------------------------------------------------------------
+Here is a detailed description of data
+==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
